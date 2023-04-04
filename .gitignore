@@ -963,3 +963,8 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,visualstudio,visualstudiocode,eclipse,intellij,pycharm,java,python,c++
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/pnu-k-digital-training-2023-2-coding-test-study.iml
+/.idea/vcs.xml
