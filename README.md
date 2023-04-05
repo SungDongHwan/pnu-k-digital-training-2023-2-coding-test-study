@@ -2,7 +2,12 @@
 
 <br/>
 
-### 4월 4일에 GitHub Desktop 사용법 알려드릴게요!!
+## Week01 과제
+### [백준 그리디알고리즘 단계별로 풀어보기](https://www.acmicpc.net/step/33)
+
+<br /> 
+
+### Sync fork하고 PR 보내주세요!!
 
 <br />
 
